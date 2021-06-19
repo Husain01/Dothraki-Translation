@@ -38,7 +38,7 @@ nav h1{
 /* Main */
 
 main {
-    /* height: 100vh; */
+    height: 70vh;
     margin: auto;
     padding: 1rem;
     max-width: var(--width-break);
